@@ -24,7 +24,7 @@
 
 ####    *Certificate:* *Soon...*
 #
-### 6. [6](6)
+### 6. [Assembling Genomes](https://www.coursera.org/learn/assembling-genomes)
 
 ####    *Certificate:* *Soon...*
 #
