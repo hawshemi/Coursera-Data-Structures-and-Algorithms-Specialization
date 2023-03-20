@@ -8,7 +8,7 @@
 
 ####    *Certificate:* 
 #
-### 2. [2](2)
+### 2. [Data Structures](https://www.coursera.org/learn/data-structures)
 
 ####    *Certificate:* 
 #   
