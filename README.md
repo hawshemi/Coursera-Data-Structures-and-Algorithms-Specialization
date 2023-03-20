@@ -12,7 +12,7 @@
 
 ####    *Certificate:* *Soon...*
 #   
-### 3. [Algorithms nn Graphs](https://www.coursera.org/learn/algorithms-on-graphs)
+### 3. [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs)
 
 ####    *Certificate:* *Soon...*
 #   
