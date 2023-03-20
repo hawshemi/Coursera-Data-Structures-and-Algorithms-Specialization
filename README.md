@@ -16,7 +16,7 @@
 
 ####    *Certificate:* *Soon...*
 #   
-### 4. [4](4)
+### 4. [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings)
 
 ####    *Certificate:* *Soon...*
 #
