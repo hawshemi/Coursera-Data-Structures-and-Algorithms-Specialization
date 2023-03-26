@@ -1,5 +1,6 @@
 # Coursera Data Structures and Algorithms Specialization (University of San Diego)
 
+
 ## [Coursera Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 ####    *Certificate:* *Soon...*
 #
