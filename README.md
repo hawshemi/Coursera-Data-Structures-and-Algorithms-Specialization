@@ -7,7 +7,7 @@
 
 ### 1. [Algorithmic Toolbox](http://coursera.org/learn/algorithmic-toolbox/)
 
-####    *Certificate:* *Soon...*
+####    *Certificate:* https://www.coursera.org/account/accomplishments/verify/JBX5YVWJRLWA
 #
 ### 2. [Data Structures](https://www.coursera.org/learn/data-structures)
 
