@@ -11,11 +11,11 @@
 #
 ### 2. [Data Structures](https://www.coursera.org/learn/data-structures)
 
-####    *Certificate:* *Soon...*
+####    *Certificate:* https://www.coursera.org/account/accomplishments/verify/7DN6ASN3K93E
 #   
 ### 3. [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs)
 
-####    *Certificate:* *Soon...*
+####    *Certificate:* https://www.coursera.org/account/accomplishments/verify/VRYTVNPYAAT9
 #   
 ### 4. [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings)
 
