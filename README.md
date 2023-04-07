@@ -19,7 +19,7 @@
 #   
 ### 4. [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings)
 
-####    *Certificate:* *Soon...*
+####    *Certificate:* *https://www.coursera.org/account/accomplishments/verify/JEXGTB5LPDGN*
 #
 ### 5. [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
 
