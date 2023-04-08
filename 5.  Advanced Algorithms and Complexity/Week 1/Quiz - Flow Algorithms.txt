@@ -1,0 +1,12 @@
+1. B, D, E, S
+
+2. S-B-A-C-T
+
+3. 
+The Ford-Fulkerson algorithms runs in polynomial time on graphs with unit edge capacities.
+
+The sum of the capacities of the edges of a network equals the sum of the capacities of the edges of any residual network.
+
+4. 4
+
+5. -
