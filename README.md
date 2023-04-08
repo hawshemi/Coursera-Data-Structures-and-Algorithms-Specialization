@@ -2,7 +2,7 @@
 
 
 ## [Coursera Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
-####    *Certificate:* *Soon...*
+####    *Certificate:* https://www.coursera.org/account/accomplishments/specialization/NZ34RN7KUHS5
 #
 
 ### 1. [Algorithmic Toolbox](http://coursera.org/learn/algorithmic-toolbox/)
@@ -23,11 +23,11 @@
 #
 ### 5. [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
 
-####    *Certificate:* *Soon...*
+####    *Certificate:* https://www.coursera.org/account/accomplishments/verify/ND7BATHPYUJA
 #
-### 6. [Assembling Genomes](https://www.coursera.org/learn/assembling-genomes)
+### 6. [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes)
 
-####    *Certificate:* *Soon...*
+####    *Certificate:* https://www.coursera.org/account/accomplishments/verify/ZJW4TSNFN2Z5
 #
 
 
